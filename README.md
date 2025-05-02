@@ -1,6 +1,6 @@
 # Dinheiro na Urna 
 
-> **Mapeando e rastreando, em código aberto, como o dinheiro privado influencia a política brasileira.**  
+> Bem público digital para **mapear e rastrear, em código aberto, como o dinheiro privado influencia a política brasileira.**  
 > Este repositório conterá todo o fluxo de coleta, tratamento e análise de dados eleitorais, legais e publicitários. Para que qualquer pessoa possa auditar, reutilizar e expandir o trabalho. **100% software livre, 100% dados abertos.**  
 
 ---
