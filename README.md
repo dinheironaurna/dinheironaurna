@@ -48,16 +48,6 @@
 
 ---
 
-## Planejamento de Arquitetura
-
-* **Ingestão**: **Airflow** ou **Prefect** (Python). 
-* **Transformação**: **dbt** (SQL).
-* **Armazenamento**: arquivos **Parquet** em MinIO/S3 + **DuckDB** local ou **BigQuery** gratuito.  
-* **API**: **FastAPI** + **GraphQL** para consultas públicas.  
-* **Visualização**: **Metabase**, painéis exploráveis e *Jupyter Notebooks*.  
-* **Reprodutibilidade**: pipelines versionados com **git** + **DVC**
----
-
 ## Licenciamento e princípios
 
 | Camada | Licença | Rationale |
